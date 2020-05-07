@@ -1,0 +1,1 @@
+alert("!!! FOUND INDEX.JS !!!")
